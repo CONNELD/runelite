@@ -71,6 +71,9 @@ public class ProjectileID
 	public static final int DEMONIC_GORILLA_MAGIC = 1304;
 	public static final int DEMONIC_GORILLA_BOULDER = 856;
 
+	public static final int ALCHEMICAL_HYDRA_MAGIC = 47 ;//=========================================correct
+	public static final int ALCHEMICAL_HYDRA_RANGED = 47;
+
 	/**
 	 * missing: marble gargoyle, superior dark beast
 	 */
